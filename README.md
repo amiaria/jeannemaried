@@ -1,4 +1,4 @@
-👋 Hi, I’m Jeanne. I’m interested in full stack development using HTML5, CSS, JavaScript, and Python.
+👋 Hi, I’m Jeanne. I’m interested in web development using HTML5, CSS, JavaScript, and Python.
 
 <!---
 jeannemaried/jeannemaried is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
